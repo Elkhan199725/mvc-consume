@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\models\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\models\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\models\\categoryeditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\models\\categoryeditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\models\\categorycreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\models\\categorycreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\services\\categoryapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\services\\categoryapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\services\\icategoryapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\services\\icategoryapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Migrations\\20260131151906_UpdateCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CategoryApi\\Migrations\\20260131151906_UpdateCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\dtos\\categoryreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\dtos\\categoryreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\dtos\\categoryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\dtos\\categoryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Migrations\\20260131145846_CategoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CategoryApi\\Migrations\\20260131145846_CategoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categoryapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E0CECF-429C-44E3-91CB-CFF5BBC15147}|CategoryApi\\CategoryApi.csproj|solutionrelative:categoryapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|c:\\users\\asus\\source\\repos\\categoryconsume\\categorymvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2A69ECC-6CCE-4847-9BA0-299781BD0DA9}|CategoryMvc\\CategoryMvc.csproj|solutionrelative:categorymvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CategoryMvc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CategoryMvc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:44:34.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CategoryMvc\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CategoryMvc\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:32:58.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CategoryApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:11:06.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryCreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Models\\CategoryCreateModel.cs",
+              "RelativeDocumentMoniker": "CategoryMvc\\Models\\CategoryCreateModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Models\\CategoryCreateModel.cs",
+              "RelativeToolTip": "CategoryMvc\\Models\\CategoryCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:32:32.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryEditModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Models\\CategoryEditModel.cs",
+              "RelativeDocumentMoniker": "CategoryMvc\\Models\\CategoryEditModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Models\\CategoryEditModel.cs",
+              "RelativeToolTip": "CategoryMvc\\Models\\CategoryEditModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:32:37.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Models\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "CategoryMvc\\Models\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Models\\CategoryViewModel.cs",
+              "RelativeToolTip": "CategoryMvc\\Models\\CategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:30:42.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Services\\CategoryService.cs",
+              "RelativeToolTip": "CategoryApi\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:08:09.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Services\\CategoryApiService.cs",
+              "RelativeDocumentMoniker": "CategoryMvc\\Services\\CategoryApiService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Services\\CategoryApiService.cs",
+              "RelativeToolTip": "CategoryMvc\\Services\\CategoryApiService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:32:45.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Program.cs",
+              "RelativeDocumentMoniker": "CategoryMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Program.cs",
+              "RelativeToolTip": "CategoryMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:29:18.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Services\\ICategoryApiService.cs",
+              "RelativeDocumentMoniker": "CategoryMvc\\Services\\ICategoryApiService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Services\\ICategoryApiService.cs",
+              "RelativeToolTip": "CategoryMvc\\Services\\ICategoryApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:32:24.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CategoryMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CategoryMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:35:08.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CategoryMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CategoryMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T15:34:11.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CategoryMvc\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "CategoryMvc\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T15:33:52.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "CategoryMvc\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "CategoryMvc\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T15:33:43.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CategoryMvc\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "CategoryMvc\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T15:33:35.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "CategoryMvc\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "CategoryMvc\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T15:33:27.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "CategoryMvc\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "CategoryMvc\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T15:33:15.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CategoryMvc\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\appsettings.Development.json",
+              "RelativeToolTip": "CategoryMvc\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T15:28:40.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "CategoryMvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\appsettings.json",
+              "RelativeToolTip": "CategoryMvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T15:28:38.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CategoryMvc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryMvc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CategoryMvc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T15:28:26.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260131151906_UpdateCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Migrations\\20260131151906_UpdateCategory.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\Migrations\\20260131151906_UpdateCategory.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Migrations\\20260131151906_UpdateCategory.cs",
+              "RelativeToolTip": "CategoryApi\\Migrations\\20260131151906_UpdateCategory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:19:06.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CategoryApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:11:12.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "CategoryApi\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:00:46.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Program.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Program.cs",
+              "RelativeToolTip": "CategoryApi\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwCUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T14:40:44.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\DTOs\\CategoryReadDto.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\DTOs\\CategoryReadDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\DTOs\\CategoryReadDto.cs",
+              "RelativeToolTip": "CategoryApi\\DTOs\\CategoryReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:02:48.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\DTOs\\CategoryEditDto.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\DTOs\\CategoryEditDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\DTOs\\CategoryEditDto.cs",
+              "RelativeToolTip": "CategoryApi\\DTOs\\CategoryEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:01:51.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\DTOs\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\DTOs\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\DTOs\\CategoryCreateDto.cs",
+              "RelativeToolTip": "CategoryApi\\DTOs\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:01:16.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Models\\Category.cs",
+              "RelativeToolTip": "CategoryApi\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T14:41:58.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260131145846_CategoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Migrations\\20260131145846_CategoryTable.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\Migrations\\20260131145846_CategoryTable.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Migrations\\20260131145846_CategoryTable.cs",
+              "RelativeToolTip": "CategoryApi\\Migrations\\20260131145846_CategoryTable.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T14:58:47.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CategoryApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T14:50:07.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CategoryApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\appsettings.json",
+              "RelativeToolTip": "CategoryApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T14:42:50.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CategoryApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\appsettings.Development.json",
+              "RelativeToolTip": "CategoryApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T14:42:47.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CategoryApi\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CategoryConsume\\CategoryApi\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "CategoryApi\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T14:41:20.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CategoryApi/CategoryApi.csproj" />
+  <Project Path="CategoryMvc/CategoryMvc.csproj" />
+</Solution>
